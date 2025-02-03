@@ -1,3 +1,1 @@
-# Cooking game based on Little Alchemy 
-
-using pygame + custom pixel graphics
+Cooking game based on Little Alchemy, using pygame + custom pixel graphics
